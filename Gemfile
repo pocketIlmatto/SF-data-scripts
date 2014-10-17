@@ -4,7 +4,7 @@
 # $ bundle install
 
 source 'https://rubygems.org'
-ruby "2.0.0" 
+#ruby "2.0.0" 
 
 # REST API helper gem
 gem 'hashie', '~> 2.1.2' 
